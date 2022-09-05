@@ -9,6 +9,7 @@ class Demo1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//This is just comment
 	}
 
 }
